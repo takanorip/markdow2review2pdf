@@ -13,3 +13,4 @@ $ docker-compose run review sh ./sh/md2re2pdf.sh
 - `src/pre.md` : まえがき
 - `src/post.md` : あとがき
 - 設定は `src/config.yml` 
+- 詳しくはここを参照 https://github.com/kmuto/review/wiki/config.yml
